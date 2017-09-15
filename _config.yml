@@ -11,9 +11,9 @@ author-img: tong-shujian.jpg # add your photo
 about-author: 我是一个普普通通的程序员，一心想要写程序改变世界。 # add description
 #twitter: # add your Twitter handle
 #facebook: # add your Facebook handle
-github:https://github.com/tong467 # add your Github handle
-linkedin:https://www.linkedin.com/in/%E4%B9%A6%E5%81%A5-%E4%BD%9F-193486140/ # add your Linkedin handle
-email:tong467@126.com # add your Email address
+github: https://github.com/tong467 # add your Github handle
+linkedin: https://www.linkedin.com/in/%E4%B9%A6%E5%81%A5-%E4%BD%9F-193486140/ # add your Linkedin handle
+email: tong467@126.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
