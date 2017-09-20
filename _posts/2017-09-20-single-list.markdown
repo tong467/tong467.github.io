@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference on Javascript
+title: 单向链表逆序及其特定节点删除
 date: 2017-09-20 14:00:00 +0800
 description: 单向链表倒叙，及特定节点O(1)时间删除。
 img: single-list-1.jpg
