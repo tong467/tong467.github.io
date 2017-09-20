@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 单向链表逆序及其特定节点删除
+title: reverse single list and node deletion
 date: 2017-09-20 14:00:00 +0800
-description: 单向链表倒叙，及特定节点O(1)时间删除。
+description: 单向链表反转，及给定节点的删除O(1)。
 img: single-list-1.jpg
 tags: [单向链表, 面试,java 基础]
 ---
