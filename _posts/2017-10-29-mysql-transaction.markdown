@@ -3,7 +3,7 @@ layout: post
 title: reverse single list and node deletion
 date: 2017-10-29 16:00:00 +0800
 description: mysql事务隔离级别。悲观锁，乐观锁。
-img: single-list-1.jpg
+img: db.jpg
 tags: [mysql]
 ---
 随着工作年龄的增大，大家对于你技术的要求也在逐步提升，刚开始工作的时候，可能你知道个赠删该查。别人就会觉得你不错。过些年，你可能要知道所有的查询必须走索引，索引的最左原则。又过了些年大家都你的要求就是，你要知道mysql的架构，你要知道那些组件是能更换的，更换这些组件能带来什么优势。
