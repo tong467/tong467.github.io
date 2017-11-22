@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reverse single list and node deletion
+title: 学习数据库（一）
 date: 2017-10-29 16:00:00 +0800
 description: mysql事务隔离级别。悲观锁，乐观锁。
 img: db.jpg
